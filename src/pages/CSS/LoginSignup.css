@@ -1,0 +1,38 @@
+.loginsignup{
+    width:80%;
+    height:80%;
+    background: white;
+    padding-top: 100px;
+   
+
+}
+
+.loginsignup__container{
+    width: 400px;
+    margin: 0 auto;
+    background: rgb(203, 200, 200);
+    height:300px;
+    padding:40px 60px;
+    margin-left: 500px;
+    border-radius: 25px;
+}
+.loginsignup__container h1{
+    margin:20px 0px;
+}
+.loginsignup-fields{
+    display: flex;
+    flex-direction: column;
+    gap:29px;
+    margin-top: 30px;
+    border-radius: 30px;
+
+}
+/* .loginsignup button{
+    gap:20px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    border: 3px solid rgb(49, 45, 45);
+    border-radius: 10px;
+} */
